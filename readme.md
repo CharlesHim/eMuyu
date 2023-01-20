@@ -4,7 +4,7 @@
 
 吾闲暇一时，思之兴起，遂作此电子木鱼，以便功德之刷取。  
 
-下载：[Releases](https://github.com/CharlesHim/eMuyu/releases)  
+下载：[Releases](https://github.com/CharlesHim/eMuyu/releases/latest)  
 
 
 
